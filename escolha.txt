@@ -1,0 +1,11 @@
+Pack(): Une os widgets em linhas ou colunas, podendo alterar o tamanho da janela.
+https://acervolima.com/python-metodo-pack-no-tkinter/
+
+Grid(): Serve como uma tabela ou grade.
+https://acervolima.com/python-metodo-grid-no-tkinter/
+
+Place(): Serve para que você consiga alterar as proporções e posição de uma janela.
+https://acervolima.com/python-metodo-place-no-tkinter/
+
+- ESCOLHA: Pack()
+Escolhi o pack() para ser usado em meu código pois ele é o mais simples de se entender e por poder alterar o tamanho da janela com mais facilidade.
